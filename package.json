@@ -1,0 +1,15 @@
+{
+  "name": "typescript-studies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lutidev/typescript-studies.git",
+  "author": "Luiz Pires <lutidev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.8.0",
+    "@typescript-eslint/parser": "^3.8.0",
+    "eslint": "^7.6.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
