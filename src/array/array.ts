@@ -1,9 +1,12 @@
 // Formas de criar um array -> Array<T> - T[]
 // T = type
+
+// Array<T>
 export function multiplicaArgs(...args: Array<number>): number {
   return args.reduce((ac, valor) => ac * valor, 1)
 }
 
+// T[]
 export function concatenaString(...args: string[]): string {
   return args.reduce((ac, valor) => ac + valor)
 }
